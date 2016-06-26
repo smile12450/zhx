@@ -34,7 +34,7 @@
     <div class="navbar">
       <div class="navbar-inner">
         <div class="container">
-          <a class="brand" href="/">Clint Wu's Blog</a>
+          <a class="brand" href="/"Hasian zhu's Blog</a>
           <ul class="nav">
 		<li><a href="/about.html">About</a></li>
 		<li><a href="/archive.html">Archive</a></li>
