@@ -5,9 +5,9 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>About Clint Wu | Clint Wu's Blog</title>
+    <title>About Haixiao | Haixiao's Blog</title>
     
-    <meta name="author" content="hasian Zhu">
+    <meta name="author" content="Haixiao Zhu">
     <meta name="keywords" content="">
 
     <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
